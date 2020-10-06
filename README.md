@@ -10,6 +10,6 @@ Para esta tarefa, você deve:
 
 Listas de stopwords em português:
 
-[António Lopes](https://gist.github.com/alopes/5358189)
-[VirtuaTI](https://virtuati.com.br/cliente/knowledgebase/25/Lista-de-StopWords.html)
-[Ranks NL](https://www.ranks.nl/stopwords/portuguese)
+- [António Lopes](https://gist.github.com/alopes/5358189)
+- [VirtuaTI](https://virtuati.com.br/cliente/knowledgebase/25/Lista-de-StopWords.html)
+- [Ranks NL](https://www.ranks.nl/stopwords/portuguese)
